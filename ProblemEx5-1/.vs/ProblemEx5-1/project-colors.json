@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e2e0783c-30a4-4f6c-bf67-9ddbba814b35": {
+      "ProjectGuid": "e2e0783c-30a4-4f6c-bf67-9ddbba814b35",
+      "DisplayName": "ProblemEx5-1",
+      "ColorIndex": 0
+    },
+    "97b065cd-0993-49af-a2e6-e469b059e5a0": {
+      "ProjectGuid": "97b065cd-0993-49af-a2e6-e469b059e5a0",
+      "DisplayName": "ProblemEx5-2",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

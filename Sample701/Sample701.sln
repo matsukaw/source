@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample701", "Sample701.csproj", "{1B2D42F5-08D0-4C19-B6AF-578FD6F105CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample702", "Sample702\Sample702.csproj", "{25F83124-9369-4D7F-B05E-CACBCEB68315}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample703", "Sample703\Sample703.csproj", "{9AB45FF8-D4EA-458E-A8F3-AC4495DD4D49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B2D42F5-08D0-4C19-B6AF-578FD6F105CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B2D42F5-08D0-4C19-B6AF-578FD6F105CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B2D42F5-08D0-4C19-B6AF-578FD6F105CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B2D42F5-08D0-4C19-B6AF-578FD6F105CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25F83124-9369-4D7F-B05E-CACBCEB68315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25F83124-9369-4D7F-B05E-CACBCEB68315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25F83124-9369-4D7F-B05E-CACBCEB68315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25F83124-9369-4D7F-B05E-CACBCEB68315}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AB45FF8-D4EA-458E-A8F3-AC4495DD4D49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AB45FF8-D4EA-458E-A8F3-AC4495DD4D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AB45FF8-D4EA-458E-A8F3-AC4495DD4D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AB45FF8-D4EA-458E-A8F3-AC4495DD4D49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAA647E8-DD2D-4F03-AC53-E404AE1F4FC8}
+	EndGlobalSection
+EndGlobal

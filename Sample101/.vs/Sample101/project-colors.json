@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "その他のファイル",
+      "ColorIndex": -1
+    },
+    "10cc4dd5-cc74-42a5-b0dc-44291ac00772": {
+      "ProjectGuid": "10cc4dd5-cc74-42a5-b0dc-44291ac00772",
+      "DisplayName": "Sample103",
+      "ColorIndex": 0
+    },
+    "c5783b3b-ad51-4c00-894c-8672444640f7": {
+      "ProjectGuid": "c5783b3b-ad51-4c00-894c-8672444640f7",
+      "DisplayName": "Problem1_1",
+      "ColorIndex": 1
+    },
+    "cd9deb08-1ee7-4e9c-b57b-4ffe30886e64": {
+      "ProjectGuid": "cd9deb08-1ee7-4e9c-b57b-4ffe30886e64",
+      "DisplayName": "Problem1_2",
+      "ColorIndex": 2
+    },
+    "36c56e10-93f0-4326-9849-b4d80ac35816": {
+      "ProjectGuid": "36c56e10-93f0-4326-9849-b4d80ac35816",
+      "DisplayName": "Problem1_3",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3981a709-9def-436f-a692-49d1e2b3ad36": {
+      "ProjectGuid": "3981a709-9def-436f-a692-49d1e2b3ad36",
+      "DisplayName": "SampleEx303",
+      "ColorIndex": 0
+    },
+    "5bee7959-3fee-4966-9349-30be8914edb0": {
+      "ProjectGuid": "5bee7959-3fee-4966-9349-30be8914edb0",
+      "DisplayName": "Sample304",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

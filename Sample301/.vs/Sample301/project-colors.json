@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "その他のファイル",
+      "ColorIndex": -1
+    },
+    "ac7f8442-89b5-46fd-9f9d-6b98c7bbf395": {
+      "ProjectGuid": "ac7f8442-89b5-46fd-9f9d-6b98c7bbf395",
+      "DisplayName": "Sample301",
+      "ColorIndex": 0
+    },
+    "6bb28d8f-7ba9-4705-9454-9b5b221d4430": {
+      "ProjectGuid": "6bb28d8f-7ba9-4705-9454-9b5b221d4430",
+      "DisplayName": "Sample302",
+      "ColorIndex": 1
+    },
+    "c0de1c36-83be-407b-880f-82f44f541854": {
+      "ProjectGuid": "c0de1c36-83be-407b-880f-82f44f541854",
+      "DisplayName": "Sample303",
+      "ColorIndex": 2
+    },
+    "5157408d-a045-4de1-83e3-aaa7883a0bcf": {
+      "ProjectGuid": "5157408d-a045-4de1-83e3-aaa7883a0bcf",
+      "DisplayName": "Sample304",
+      "ColorIndex": 3
+    },
+    "0158024b-678f-40a1-8e3d-edbe3e260f7a": {
+      "ProjectGuid": "0158024b-678f-40a1-8e3d-edbe3e260f7a",
+      "DisplayName": "Sample305",
+      "ColorIndex": 4
+    },
+    "32d79af6-cee0-4e49-8718-ad3511fb390c": {
+      "ProjectGuid": "32d79af6-cee0-4e49-8718-ad3511fb390c",
+      "DisplayName": "Sample306",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

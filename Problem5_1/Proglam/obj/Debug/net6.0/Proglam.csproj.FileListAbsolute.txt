@@ -1,0 +1,15 @@
+C:\Users\松川忍\source\Problem5_1\Proglam\bin\Debug\net6.0\Proglam.exe
+C:\Users\松川忍\source\Problem5_1\Proglam\bin\Debug\net6.0\Proglam.deps.json
+C:\Users\松川忍\source\Problem5_1\Proglam\bin\Debug\net6.0\Proglam.runtimeconfig.json
+C:\Users\松川忍\source\Problem5_1\Proglam\bin\Debug\net6.0\Proglam.dll
+C:\Users\松川忍\source\Problem5_1\Proglam\bin\Debug\net6.0\ref\Proglam.dll
+C:\Users\松川忍\source\Problem5_1\Proglam\bin\Debug\net6.0\Proglam.pdb
+C:\Users\松川忍\source\Problem5_1\Proglam\obj\Debug\net6.0\Proglam.csproj.AssemblyReference.cache
+C:\Users\松川忍\source\Problem5_1\Proglam\obj\Debug\net6.0\Proglam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\松川忍\source\Problem5_1\Proglam\obj\Debug\net6.0\Proglam.AssemblyInfoInputs.cache
+C:\Users\松川忍\source\Problem5_1\Proglam\obj\Debug\net6.0\Proglam.AssemblyInfo.cs
+C:\Users\松川忍\source\Problem5_1\Proglam\obj\Debug\net6.0\Proglam.csproj.CoreCompileInputs.cache
+C:\Users\松川忍\source\Problem5_1\Proglam\obj\Debug\net6.0\Proglam.dll
+C:\Users\松川忍\source\Problem5_1\Proglam\obj\Debug\net6.0\ref\Proglam.dll
+C:\Users\松川忍\source\Problem5_1\Proglam\obj\Debug\net6.0\Proglam.pdb
+C:\Users\松川忍\source\Problem5_1\Proglam\obj\Debug\net6.0\Proglam.genruntimeconfig.cache

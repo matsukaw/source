@@ -1,0 +1,15 @@
+C:\Users\松川忍\source\Problem5_1\Proglem5-5\bin\Debug\net6.0\Proglem5-5.exe
+C:\Users\松川忍\source\Problem5_1\Proglem5-5\bin\Debug\net6.0\Proglem5-5.deps.json
+C:\Users\松川忍\source\Problem5_1\Proglem5-5\bin\Debug\net6.0\Proglem5-5.runtimeconfig.json
+C:\Users\松川忍\source\Problem5_1\Proglem5-5\bin\Debug\net6.0\Proglem5-5.dll
+C:\Users\松川忍\source\Problem5_1\Proglem5-5\bin\Debug\net6.0\ref\Proglem5-5.dll
+C:\Users\松川忍\source\Problem5_1\Proglem5-5\bin\Debug\net6.0\Proglem5-5.pdb
+C:\Users\松川忍\source\Problem5_1\Proglem5-5\obj\Debug\net6.0\Proglem5-5.csproj.AssemblyReference.cache
+C:\Users\松川忍\source\Problem5_1\Proglem5-5\obj\Debug\net6.0\Proglem5-5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\松川忍\source\Problem5_1\Proglem5-5\obj\Debug\net6.0\Proglem5-5.AssemblyInfoInputs.cache
+C:\Users\松川忍\source\Problem5_1\Proglem5-5\obj\Debug\net6.0\Proglem5-5.AssemblyInfo.cs
+C:\Users\松川忍\source\Problem5_1\Proglem5-5\obj\Debug\net6.0\Proglem5-5.csproj.CoreCompileInputs.cache
+C:\Users\松川忍\source\Problem5_1\Proglem5-5\obj\Debug\net6.0\Proglem5-5.dll
+C:\Users\松川忍\source\Problem5_1\Proglem5-5\obj\Debug\net6.0\ref\Proglem5-5.dll
+C:\Users\松川忍\source\Problem5_1\Proglem5-5\obj\Debug\net6.0\Proglem5-5.pdb
+C:\Users\松川忍\source\Problem5_1\Proglem5-5\obj\Debug\net6.0\Proglem5-5.genruntimeconfig.cache

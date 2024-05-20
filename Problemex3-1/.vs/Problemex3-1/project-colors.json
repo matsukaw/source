@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2ee65885-70a7-48fe-88aa-f8df6aa19d94": {
+      "ProjectGuid": "2ee65885-70a7-48fe-88aa-f8df6aa19d94",
+      "DisplayName": "Problemex3-1",
+      "ColorIndex": 0
+    },
+    "770afa4d-ab11-41eb-b1e1-e38b5810683f": {
+      "ProjectGuid": "770afa4d-ab11-41eb-b1e1-e38b5810683f",
+      "DisplayName": "ProblemEx3-2",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

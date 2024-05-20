@@ -1,0 +1,15 @@
+C:\Users\松川忍\source\Problem6-1\bin\Debug\net6.0\Problem6-1.exe
+C:\Users\松川忍\source\Problem6-1\bin\Debug\net6.0\Problem6-1.deps.json
+C:\Users\松川忍\source\Problem6-1\bin\Debug\net6.0\Problem6-1.runtimeconfig.json
+C:\Users\松川忍\source\Problem6-1\bin\Debug\net6.0\Problem6-1.dll
+C:\Users\松川忍\source\Problem6-1\bin\Debug\net6.0\ref\Problem6-1.dll
+C:\Users\松川忍\source\Problem6-1\bin\Debug\net6.0\Problem6-1.pdb
+C:\Users\松川忍\source\Problem6-1\obj\Debug\net6.0\Problem6-1.csproj.AssemblyReference.cache
+C:\Users\松川忍\source\Problem6-1\obj\Debug\net6.0\Problem6-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\松川忍\source\Problem6-1\obj\Debug\net6.0\Problem6-1.AssemblyInfoInputs.cache
+C:\Users\松川忍\source\Problem6-1\obj\Debug\net6.0\Problem6-1.AssemblyInfo.cs
+C:\Users\松川忍\source\Problem6-1\obj\Debug\net6.0\Problem6-1.csproj.CoreCompileInputs.cache
+C:\Users\松川忍\source\Problem6-1\obj\Debug\net6.0\Problem6-1.dll
+C:\Users\松川忍\source\Problem6-1\obj\Debug\net6.0\ref\Problem6-1.dll
+C:\Users\松川忍\source\Problem6-1\obj\Debug\net6.0\Problem6-1.pdb
+C:\Users\松川忍\source\Problem6-1\obj\Debug\net6.0\Problem6-1.genruntimeconfig.cache

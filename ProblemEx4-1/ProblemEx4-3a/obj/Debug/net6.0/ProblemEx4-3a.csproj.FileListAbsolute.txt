@@ -1,0 +1,5 @@
+C:\Users\松川忍\source\ProblemEx4-1\ProblemEx4-3a\obj\Debug\net6.0\ProblemEx4-3a.csproj.AssemblyReference.cache
+C:\Users\松川忍\source\ProblemEx4-1\ProblemEx4-3a\obj\Debug\net6.0\ProblemEx4-3a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\松川忍\source\ProblemEx4-1\ProblemEx4-3a\obj\Debug\net6.0\ProblemEx4-3a.AssemblyInfoInputs.cache
+C:\Users\松川忍\source\ProblemEx4-1\ProblemEx4-3a\obj\Debug\net6.0\ProblemEx4-3a.AssemblyInfo.cs
+C:\Users\松川忍\source\ProblemEx4-1\ProblemEx4-3a\obj\Debug\net6.0\ProblemEx4-3a.csproj.CoreCompileInputs.cache

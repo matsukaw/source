@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bcfe8058-67b7-4994-8527-6f72d674ee0c": {
+      "ProjectGuid": "bcfe8058-67b7-4994-8527-6f72d674ee0c",
+      "DisplayName": "Sample201",
+      "ColorIndex": 0
+    },
+    "4fdf28f5-224a-44ad-8589-0cc39420224f": {
+      "ProjectGuid": "4fdf28f5-224a-44ad-8589-0cc39420224f",
+      "DisplayName": "Sample202",
+      "ColorIndex": 1
+    },
+    "0e42a369-fb04-4dac-aae5-316f47af5447": {
+      "ProjectGuid": "0e42a369-fb04-4dac-aae5-316f47af5447",
+      "DisplayName": "Sample203",
+      "ColorIndex": 2
+    },
+    "d30119e5-0cf3-43c7-9dce-a7ca37410ad0": {
+      "ProjectGuid": "d30119e5-0cf3-43c7-9dce-a7ca37410ad0",
+      "DisplayName": "Sample204",
+      "ColorIndex": 3
+    },
+    "80ce17af-242e-40f7-b178-dcc7350555a2": {
+      "ProjectGuid": "80ce17af-242e-40f7-b178-dcc7350555a2",
+      "DisplayName": "Sample205",
+      "ColorIndex": 4
+    },
+    "678625b2-3b0a-4fb0-b087-1f0383728294": {
+      "ProjectGuid": "678625b2-3b0a-4fb0-b087-1f0383728294",
+      "DisplayName": "Sample206",
+      "ColorIndex": 5
+    },
+    "03c8e8bf-e4ea-44dc-b94e-85f301d54f57": {
+      "ProjectGuid": "03c8e8bf-e4ea-44dc-b94e-85f301d54f57",
+      "DisplayName": "Problem2_1",
+      "ColorIndex": 6
+    },
+    "5d1b1240-52e6-4794-a14b-9fc516ffbacd": {
+      "ProjectGuid": "5d1b1240-52e6-4794-a14b-9fc516ffbacd",
+      "DisplayName": "Problem2-3",
+      "ColorIndex": 7
+    },
+    "9b4aedc2-2c26-4f6a-a5f6-2bfcd3ccde02": {
+      "ProjectGuid": "9b4aedc2-2c26-4f6a-a5f6-2bfcd3ccde02",
+      "DisplayName": "Problem2-2",
+      "ColorIndex": 8
+    },
+    "050c0e17-5824-4ddc-b06c-125e44db5c8a": {
+      "ProjectGuid": "050c0e17-5824-4ddc-b06c-125e44db5c8a",
+      "DisplayName": "Problem2_4",
+      "ColorIndex": 9
+    },
+    "c78a7ee8-5e00-4133-8f91-9e2d1f639988": {
+      "ProjectGuid": "c78a7ee8-5e00-4133-8f91-9e2d1f639988",
+      "DisplayName": "Problem2_5",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}

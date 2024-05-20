@@ -1,0 +1,14 @@
+C:\Users\松川忍\source\Problem4_1\Problem4-15\bin\Debug\net6.0\Problem4-15.exe
+C:\Users\松川忍\source\Problem4_1\Problem4-15\bin\Debug\net6.0\Problem4-15.deps.json
+C:\Users\松川忍\source\Problem4_1\Problem4-15\bin\Debug\net6.0\Problem4-15.runtimeconfig.json
+C:\Users\松川忍\source\Problem4_1\Problem4-15\bin\Debug\net6.0\Problem4-15.dll
+C:\Users\松川忍\source\Problem4_1\Problem4-15\bin\Debug\net6.0\ref\Problem4-15.dll
+C:\Users\松川忍\source\Problem4_1\Problem4-15\bin\Debug\net6.0\Problem4-15.pdb
+C:\Users\松川忍\source\Problem4_1\Problem4-15\obj\Debug\net6.0\Problem4-15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\松川忍\source\Problem4_1\Problem4-15\obj\Debug\net6.0\Problem4-15.AssemblyInfoInputs.cache
+C:\Users\松川忍\source\Problem4_1\Problem4-15\obj\Debug\net6.0\Problem4-15.AssemblyInfo.cs
+C:\Users\松川忍\source\Problem4_1\Problem4-15\obj\Debug\net6.0\Problem4-15.csproj.CoreCompileInputs.cache
+C:\Users\松川忍\source\Problem4_1\Problem4-15\obj\Debug\net6.0\Problem4-15.dll
+C:\Users\松川忍\source\Problem4_1\Problem4-15\obj\Debug\net6.0\ref\Problem4-15.dll
+C:\Users\松川忍\source\Problem4_1\Problem4-15\obj\Debug\net6.0\Problem4-15.pdb
+C:\Users\松川忍\source\Problem4_1\Problem4-15\obj\Debug\net6.0\Problem4-15.genruntimeconfig.cache

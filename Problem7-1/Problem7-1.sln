@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem7-1", "Problem7-1.csproj", "{2C282CC7-52EF-499B-9C5D-8C79A04FD8C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem7-2", "Problem7-2\Problem7-2.csproj", "{E956A332-11BB-4F24-BDCE-3F3E41B6584D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem7-3", "Problem7-3\Problem7-3.csproj", "{BBE0DFA3-5C1C-4B54-A542-DCF454A6D653}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C282CC7-52EF-499B-9C5D-8C79A04FD8C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C282CC7-52EF-499B-9C5D-8C79A04FD8C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C282CC7-52EF-499B-9C5D-8C79A04FD8C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C282CC7-52EF-499B-9C5D-8C79A04FD8C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E956A332-11BB-4F24-BDCE-3F3E41B6584D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E956A332-11BB-4F24-BDCE-3F3E41B6584D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E956A332-11BB-4F24-BDCE-3F3E41B6584D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E956A332-11BB-4F24-BDCE-3F3E41B6584D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBE0DFA3-5C1C-4B54-A542-DCF454A6D653}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBE0DFA3-5C1C-4B54-A542-DCF454A6D653}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBE0DFA3-5C1C-4B54-A542-DCF454A6D653}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBE0DFA3-5C1C-4B54-A542-DCF454A6D653}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27B65E55-734C-4CA4-8051-0378EB176C39}
+	EndGlobalSection
+EndGlobal

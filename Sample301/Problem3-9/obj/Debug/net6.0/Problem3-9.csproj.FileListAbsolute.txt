@@ -1,0 +1,15 @@
+C:\Users\松川忍\source\Sample301\Problem3-9\bin\Debug\net6.0\Problem3-9.exe
+C:\Users\松川忍\source\Sample301\Problem3-9\bin\Debug\net6.0\Problem3-9.deps.json
+C:\Users\松川忍\source\Sample301\Problem3-9\bin\Debug\net6.0\Problem3-9.runtimeconfig.json
+C:\Users\松川忍\source\Sample301\Problem3-9\bin\Debug\net6.0\Problem3-9.dll
+C:\Users\松川忍\source\Sample301\Problem3-9\bin\Debug\net6.0\ref\Problem3-9.dll
+C:\Users\松川忍\source\Sample301\Problem3-9\bin\Debug\net6.0\Problem3-9.pdb
+C:\Users\松川忍\source\Sample301\Problem3-9\obj\Debug\net6.0\Problem3-9.csproj.AssemblyReference.cache
+C:\Users\松川忍\source\Sample301\Problem3-9\obj\Debug\net6.0\Problem3-9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\松川忍\source\Sample301\Problem3-9\obj\Debug\net6.0\Problem3-9.AssemblyInfoInputs.cache
+C:\Users\松川忍\source\Sample301\Problem3-9\obj\Debug\net6.0\Problem3-9.AssemblyInfo.cs
+C:\Users\松川忍\source\Sample301\Problem3-9\obj\Debug\net6.0\Problem3-9.csproj.CoreCompileInputs.cache
+C:\Users\松川忍\source\Sample301\Problem3-9\obj\Debug\net6.0\Problem3-9.dll
+C:\Users\松川忍\source\Sample301\Problem3-9\obj\Debug\net6.0\ref\Problem3-9.dll
+C:\Users\松川忍\source\Sample301\Problem3-9\obj\Debug\net6.0\Problem3-9.pdb
+C:\Users\松川忍\source\Sample301\Problem3-9\obj\Debug\net6.0\Problem3-9.genruntimeconfig.cache
